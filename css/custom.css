@@ -92,7 +92,7 @@ height:110px;}
 
 .parallax{
     min-height: 700px;
-    background-image: url("../parallax.jpg");
+    background-image: url("https://res.cloudinary.com/technologyremastered/image/upload/v1549736172/espresso_lab/parallax.jpg");
     background-position: right bottom;
     background-size: cover;
     background-repeat: repeat;
